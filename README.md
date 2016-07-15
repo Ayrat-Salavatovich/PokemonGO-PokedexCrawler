@@ -7,3 +7,5 @@ Scrapy:<br><br>
 `
 pip install Scrapy
 `
+## Info
+**All data belongs to https://fevgames.net (https://fevgames.net/pokedex/)!**
